@@ -1,0 +1,14 @@
+{
+  "name": "scss_project",
+  "version": "1.0.0",
+  "description": "A front-end SCSS Project to Get started with SASS",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass sass/main.scss css/style.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.80.4"
+  }
+}
